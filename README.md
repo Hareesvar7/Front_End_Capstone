@@ -10,6 +10,11 @@ A MERN-stack fitness tracker app.
 - [License](#license)
 - [Contribution](#contribution)
 - [Questions](#questions)
+![signup](https://github.com/Hareesvar7/Front_End_Capstone/assets/110599490/e43c0a71-3ac6-429a-8508-a8da824538a6)
+![3](https://github.com/Hareesvar7/Front_End_Capstone/assets/110599490/5b856375-bc85-4574-a20c-4a282853e05c)
+![4](https://github.com/Hareesvar7/Front_End_Capstone/assets/110599490/6f52ee1d-9bc2-468d-874d-da6d044964dd)
+![6](https://github.com/Hareesvar7/Front_End_Capstone/assets/110599490/6b921881-b8e9-471d-9ae5-bcaf2dc027f9)
+![7](https://github.com/Hareesvar7/Front_End_Capstone/assets/110599490/d659985a-89c9-44a6-914e-94b8094fbc9c)
 
 ## Description:
 
